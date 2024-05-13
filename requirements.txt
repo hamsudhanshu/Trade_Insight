@@ -1,7 +1,7 @@
-numpy
+numpy >=1.16.5 and <1.23.0
 pandas
 matplotlib
-tensorflow
+tensorflow >= 3.19.0
 pandas-datareader
 yfinance
 scikit-learn
